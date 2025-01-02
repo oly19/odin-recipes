@@ -1,0 +1,25 @@
+body {
+    color: black;
+    background-color:wheat;
+    font-family: "Inter", sans-serif;
+}
+
+#title {
+    text-align: center;
+    font-size: 42px;
+}
+
+#recipe-list {
+    font-style: italic;
+}
+
+a:visited {
+    color: rgb(61, 84, 99);
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
